@@ -1,0 +1,4 @@
+Test: ROSE_FAIL
+addr=0x00000000
+addr=0x00000000
+FAIL

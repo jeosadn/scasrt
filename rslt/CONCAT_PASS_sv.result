@@ -1,0 +1,4 @@
+Test: CONCAT_PASS
+addr=0x00000001
+addr=0x00000002
+PASS

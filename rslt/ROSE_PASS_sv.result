@@ -1,0 +1,4 @@
+Test: ROSE_PASS
+addr=0x00000000
+addr=0x00000001
+PASS

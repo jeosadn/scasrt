@@ -1,0 +1,6 @@
+.cache
+objdir
+objdir/*
+systemc*
+*.result
+external/*

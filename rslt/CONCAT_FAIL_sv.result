@@ -1,0 +1,4 @@
+Test: CONCAT_FAIL
+addr=0x00000001
+addr=0x00000003
+FAIL

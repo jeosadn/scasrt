@@ -1,0 +1,6 @@
+Test: WITHIN_FAIL
+addr=0x00000001
+addr=0x00000001
+addr=0x00000005
+FAIL
+addr=0x0000000a

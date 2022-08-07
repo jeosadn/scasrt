@@ -1,0 +1,4 @@
+Test: FELL_PASS
+addr=0x00000001
+addr=0x00000000
+PASS
